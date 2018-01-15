@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "A utility that let's you add metadata to a markdown file.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyattsweet/metamarkdown"
+  },
   "scripts": {
     "test": "node index.js"
   },
