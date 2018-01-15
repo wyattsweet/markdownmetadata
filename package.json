@@ -1,0 +1,12 @@
+{
+  "name": "markdownmetadata",
+  "version": "1.0.0",
+  "description": "A utility that let's you add metadata to a markdown file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["markdown", "metadata"],
+  "author": "Wyatt Sweet",
+  "license": "ISC"
+}
