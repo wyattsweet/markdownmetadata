@@ -1,6 +1,6 @@
 {
   "name": "metamarkdown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A utility that let's you add metadata to a markdown file.",
   "main": "index.js",
   "repository": {
